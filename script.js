@@ -239,3 +239,5 @@ function capitalizeName(name) {
             document.getElementById('emailSubject').innerHTML = subject;
             document.getElementById('emailBody').innerHTML = body;
         }
+
+        
